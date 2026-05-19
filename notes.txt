@@ -3,3 +3,5 @@ Learning Git
 This is a new line
 
 My name is Thomas Shelby
+
+King Ragnar
